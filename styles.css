@@ -8,3 +8,15 @@ h1{
     text-align: center;
 
 }
+
+.assign {
+    display:flex;
+    padding: 10px;
+    margin: 10px;
+    background:brown;
+}
+
+.assign img{
+    width:200px;
+    padding:10px;
+}
