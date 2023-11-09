@@ -20,3 +20,13 @@ h1{
     width:200px;
     padding:10px;
 }
+
+a{
+    text-decoration: none; /*remove unerlining on anchor tags*/
+    color:deeppink; /*pick the color you want*/
+}
+
+.assign img{
+    padding: 10px; /*change this from margin to padding*/
+    border: 2px solid midnightblue; /*try dashed, dotted*/
+}
