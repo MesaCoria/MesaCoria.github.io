@@ -5,6 +5,13 @@ body {
     flex-wrap: wrap;
 }
 
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+
 h1:hover{
     color:maroon;
     text-align: center;
@@ -15,7 +22,7 @@ h1:hover{
 
 a{
     text-decoration: none; /*remove unerlining on anchor tags*/
-    color:whitesmoke; /*pick the color you want*/
+    color:lightsteelblue; /*pick the color you want*/
 }
 
 .assign {
