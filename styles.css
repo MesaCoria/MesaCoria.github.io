@@ -20,7 +20,7 @@ h1:hover {
 
 a{
     text-decoration: none; /*remove unerlining on anchor tags*/
-    color:lightsteelblue; /*pick the color you want*/
+    color: red; /*pick the color you want*/
 }
 
 .assign {
@@ -28,7 +28,7 @@ a{
     margin: 10px;
     padding: 10px;
     border-radius: 20px;
-    width: 30%;
+    width: 20%;
     box-shadow: 8px 8px brown; 
     display: block; /* instead of flex */
     border-radius: 20px; /*curved corners*/
@@ -37,11 +37,11 @@ a{
 .assign img{
     width: 200px;
     margin: 10px;
-    border: 2px solid midnightblue;
+    border: 2px solid white;
 }
 
 .assign img:hover {
     width: 200px;
     margin: 10px;
-    border: 2px dotted yellow;
+    border: 2px dotted red;
 }
