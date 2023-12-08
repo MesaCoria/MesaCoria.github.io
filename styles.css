@@ -37,11 +37,11 @@ a{
 .assign img{
     width: 200px;
     margin: 10px;
-    border: 2px solid white;
+    border: 5px solid white;
 }
 
 .assign img:hover {
     width: 200px;
     margin: 10px;
-    border: 2px dotted red;
+    border: 5px dotted red;
 }
