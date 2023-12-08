@@ -6,18 +6,16 @@ body {
 }
 
 h1 {
-    color: whitesmoke;
-    text-align: center;
-    width: 100%;
+    color: maroon; 
+    text-align: center; 
+    width: 100%; 
     display: block;
-}
-
-h1:hover{
-    color:maroon;
-    text-align: center;
-    width: 100%;
+} 
+h1:hover {
+    color: hotpink; 
+    text-align: center; 
+    width: 100%; 
     display: block;
-
 }
 
 a{
