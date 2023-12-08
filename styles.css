@@ -20,7 +20,12 @@ h1:hover {
 
 a{
     text-decoration: none; /*remove unerlining on anchor tags*/
-    color: red; /*pick the color you want*/
+    color: whitesmoke; /*pick the color you want*/
+}
+
+a:hover{
+    text-decoration: none;
+    color: red;
 }
 
 .assign {
