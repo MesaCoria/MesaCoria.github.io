@@ -1,16 +1,21 @@
 body {
-    background: pink;
+    background: black;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-wrap: wrap;
 }
 
-h1{
-    color:magenta;
+h1:hover{
+    color:maroon;
     text-align: center;
     width: 100%;
     display: block;
 
+}
+
+a{
+    text-decoration: none; /*remove unerlining on anchor tags*/
+    color:whitesmoke; /*pick the color you want*/
 }
 
 .assign {
@@ -26,21 +31,12 @@ h1{
 
 .assign img{
     width: 200px;
-    padding:10px;
+    margin: 10px;
     border: 2px solid midnightblue;
 }
 
-a{
-    text-decoration: none; /*remove unerlining on anchor tags*/
-    color:deeppink; /*pick the color you want*/
-}
-
-.assign img:hover{
+.assign img:hover {
     width: 200px;
-    padding: 10px; /*change this from margin to padding*/
-    border: 2px dashed plum; /*try dashed, dotted*/
-}
-a:hover{
-    text-decoration: none;
-    color: salmon;
+    margin: 10px;
+    border: 2px dotted yellow;
 }
